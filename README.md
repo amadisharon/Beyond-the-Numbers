@@ -6,7 +6,11 @@ _“Beyond the Numbers: Uncovering Consumer Habits, Profit Trends, and Market Sh
 **An Interactive Power BI Dashboard project analyzing Revenue, Customers, and Units Sold over a two-year period (2023–2024).**
 
 ---
+## Project
+Link to explore interactive dashboard in Power Bi Service
+https://app.powerbi.com/view?r=eyJrIjoiYmRkNjg2YWMtMjVmZi00ZjUyLTkwZDktNjBiYjI4NDJiMzcwIiwidCI6IjQ1YjIyMTQ2LTA0ODgtNDUzMC04MmQ2LTU5ZjJiOGEyNzY1NyJ9
 
+---
 ## 📌 Project Overview
 
 This project tells the story of how an organization’s performance metrics evolved across two years. The analysis is built around key KPIs (Revenue, Customers, Units Sold), using interactive storytelling to uncover behavioral patterns, performance issues, and untapped market opportunities, particularly focusing on **gender representation** and **seasonal revenue fluctuations**.
